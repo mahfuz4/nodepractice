@@ -1,0 +1,22 @@
+response known as rs 
+ Response property
+ * res.app
+ * res.headerSent (return : boolean )
+ * res.locals (only when use local variable).
+  Response method
+ * res.cookie()
+ * res.clearCookie()
+ * res.end()
+ * res.send()
+ * res.json()
+ * res.status()
+ * res.sendStatus()
+ * res.render()
+ * res.format()
+ * res.location()
+ * res.redirect()
+ * res.get()
+ * res.set()
+ * 
+ * 
+ * 
